@@ -1,6 +1,6 @@
 # Kookie Monster
 
-Some applications written for Apple Mac OS X create cookie files but offer
+Some applications written for Apple macOS create cookie files but offer
 no method to manage cookie privacy. Kookie Monster was written to address the
 problem for myself. 
 
