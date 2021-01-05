@@ -14,5 +14,5 @@ files). In this way, I fill the gap not yet closed by Cookie.
 `km -f` finds `*.binarycookies` files and writes results to `~/.config/km/cookies`.
 `km -e` deletes all files listed in `~/.config/km/cookies`.
 Any lines in `~/.config/km/cookies` that begin with a hash/pound (#) are ignored.
-When run from cron, cookie files I don't want don't stand a chance.
+When run from `launchctl` (like cron), cookie files I don't want don't stand a chance.
 
