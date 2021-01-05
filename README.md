@@ -5,7 +5,7 @@ no method to manage cookie privacy. Kookie Monster was written to address the
 problem for myself. 
 
 This isn't the same as cookie management; it's cookie **file** management.
-For cookie management, I use SweetP Productions' [Cookie 5.0](https://cookie5app.com/).
+For cookie management, I use SweetP Productions' [Cookie](https://cookieapp.com/).
 Kookie Monster simply finds and deletes cookie **files** in such a way as to
 keep some of the cookie files if desired (by maintaining a list of cookie
 files). In this way, I fill the gap not yet closed by Cookie 5.0.
